@@ -13,20 +13,20 @@ The dashboard analyzes data from **1,701 families** across **4 countries** (Syri
 
 ## 🖼️ Dashboard Preview
 
-### 1. Overview Page (Teal Theme)
-![Overview Dashboard](overview_teal.png)
+### 1. Overview Page 
+![overview.jpg](https://github.com/ShireenTalaat/Refugees-Needs-Analysis-Dashboard/blob/main/overview.jpg)
 *Focuses on high-level KPIs, income distribution, and family demographics.*
 
 ### 2. Housing Page
-![Housing Dashboard](housing.png)
+![housing.jpg](https://github.com/ShireenTalaat/Refugees-Needs-Analysis-Dashboard/blob/main/housing.jpg)
 *Analyzes geographic distribution, housing types, and family composition.*
 
 ### 3. Needs Page
-![Needs Dashboard](needs.png)
+![needs.jpg](https://github.com/ShireenTalaat/Refugees-Needs-Analysis-Dashboard/blob/main/needs.jpg)
 *Breaks down specific needs: Food, Education, Clothes, and Money.*
 
-### 4. Detailed Income & Demographics (Purple Theme)
-![Detailed Overview](overview_purple.png)
+### 4. Detailed Income & Demographics 
+![refugees.jpg](https://github.com/ShireenTalaat/Refugees-Needs-Analysis-Dashboard/blob/main/refugees.jpg)
 *Features a decomposition tree for income analysis and detailed gender/country splits.*
 
 ---
